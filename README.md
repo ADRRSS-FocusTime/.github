@@ -1,1 +1,5 @@
-# .github
+# SolarTime
+
+best idea ever
+
+#SayNoToScreenTime

@@ -5,9 +5,9 @@
 
 ---
 
-### **🚀 Core Features**
+### ** Core Features**
 
-1. **🪐 Solar System Visualization**
+1. ** Solar System Visualization**
 
    * A **RealityKit 3D solar system model** represents the user’s focus sessions.
 
@@ -15,7 +15,7 @@
 
    * The **Sun** symbolizes focus — planets orbiting smoothly means focus is maintained.
 
-2. **⏱️ Focus Timer (Live Activity \+ Dynamic Island)**
+2. **Focus Timer (Live Activity \+ Dynamic Island)**
 
    * Focus sessions start via **App Intents** (e.g., `StartTimerIntent`).
 
@@ -29,7 +29,7 @@
 
    * Tapping notifications or island expands the activity UI.
 
-3. **🧩 Screen Time Integration**
+3. **Screen Time Integration**
 
    * Uses **FamilyControls**, **ManagedSettings**, and **DeviceActivity** frameworks.
 
@@ -41,7 +41,7 @@
 
    * Includes **custom ShieldActionExtension** to handle resume/pause actions directly.
 
-4. **🔔 Smart Notifications**
+4. **Smart Notifications**
 
    * Sends local notifications when:
 
@@ -51,7 +51,7 @@
 
      * Time milestones (e.g., halfway or 5 minutes left).
 
-5. **🧠 App Intents Integration**
+5. **App Intents Integration**
 
    * Custom intents like:
 
@@ -63,7 +63,7 @@
 
    * Enables quick Siri Shortcuts, widgets, or automation triggers.
 
-6. **🎨 Visual & Thematic Style**
+6. **Visual & Thematic Style**
 
    * Space-inspired design:
 
@@ -77,7 +77,7 @@
 
 ---
 
-### **🧩 Technical Stack**
+### **Technical Stack**
 
 * **SwiftUI** — Main UI framework.
 
@@ -91,7 +91,7 @@
 
 ---
 
-### **🌠 Vision**
+### **Vision**
 
 We want to **raise awareness about screen time** and help people become more conscious of how much time they spend on their devices.  
  Through an engaging **solar system metaphor**, users can *see* their phone usage take shape — as planets orbit, slow down, or drift away, they visualize how attention and time move throughout the day.

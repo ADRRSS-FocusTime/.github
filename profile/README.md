@@ -1,4 +1,4 @@
-## Screen Time Focus App — “Solar Focus” (Working Title)**
+## Screen Time Focus App — “Solar Focus” (Working Title)
 
 **Concept:**  
  A **screen-time management app** that helps users focus and manage device usage through **Live Activities**, **App Intents**, and **Dynamic Island** integration — all wrapped in a **solar system–inspired, space-themed UI**.

@@ -5,7 +5,7 @@
 
 ---
 
-### ** Core Features**
+### **Core Features**
 
 1. ** Solar System Visualization**
 
